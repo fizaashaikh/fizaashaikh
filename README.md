@@ -3,7 +3,7 @@
 <p>&nbsp;</p>
 
 
-### <p align="center">A Computer Engineering Student</p>
+### <p align="center">The Future Geek</p>
 
 <p>&nbsp;</p>
 
