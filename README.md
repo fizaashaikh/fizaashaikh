@@ -3,7 +3,7 @@
 <p>&nbsp;</p>
 
 
-### <p align="center">A Passionate and Dedicated Computer Engineering Student from India</p>
+### <p align="center">A Computer Engineering Student</p>
 
 <p>&nbsp;</p>
 
