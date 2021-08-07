@@ -1,12 +1,15 @@
 
 
-### Hi there 👋, I'm Fiza Shaikh
+# Hi there 👋, I'm Fiza Shaikh
+
 ![]()
 
 
 **Skills:** C / C++ / Java / Data Structure / Problem Solving / HTML / CSS
 
 - 📫 How to reach me: fizashaikh1602@gmail.com 
+
+<br/>
 
 #### Connect With Me:
 
