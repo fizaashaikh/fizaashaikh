@@ -5,7 +5,7 @@
 ![]()
 
 
-**Skills:** C / C++ / Java / Data Structure / Problem Solving / HTML / CSS
+**Skills:** C / C++ / Java / Data Structures / Problem Solving / HTML / CSS
 
 - 📫 How to reach me: fizashaikh1602@gmail.com 
 
