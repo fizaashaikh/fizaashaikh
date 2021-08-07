@@ -2,11 +2,12 @@
 
 # Hi there 👋, I'm Fiza Shaikh
 
-![]()
+<p>&nbsp;</p>
 
+**Skills:** &nbsp;  C / C++ / Java / Problem Solving / HTML / CSS
 
-**Skills:** C / C++ / Java / Data Structures / Problem Solving / HTML / CSS
-
+- 🎓 Persuing B.Tech at MKSSS's Cummins College of Engineering for Women, Pune
+- 💬 Ask me about **Data Structures**
 - 📫 How to reach me: fizashaikh1602@gmail.com 
 
 <br/>
