@@ -1,12 +1,16 @@
+![download](https://user-images.githubusercontent.com/65342304/128605080-c11408f7-611b-47ac-9909-5e0d0b10ca2e.png)
+
+<p>&nbsp;</p>
 
 
-# Hi there 👋, I'm Fiza Shaikh
+### <p align="center">A Passionate and Dedicated Computer Engineering Student from India</p>
 
 <p>&nbsp;</p>
 
 **Skills:** &nbsp;  C / C++ / Java / Problem Solving / HTML / CSS
 
 - 🎓 Persuing B.Tech at MKSSS's Cummins College of Engineering for Women, Pune
+- 🌱 Polishing my Problem Solving Skills in DS and Competitive Coding
 - 💬 Ask me about **Data Structures**
 - 📫 How to reach me: fizashaikh1602@gmail.com 
 
