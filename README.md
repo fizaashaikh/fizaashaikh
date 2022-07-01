@@ -2,8 +2,7 @@
 
 <p>&nbsp;</p>
 
-
-### <p align="center">The Future Geek</p>
+### <p align="center">SDE Intern @Amazon</p>
 
 <p>&nbsp;</p>
 
