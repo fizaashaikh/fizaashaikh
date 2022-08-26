@@ -2,7 +2,7 @@
 
 <p>&nbsp;</p>
 
-### <p align="center">SDE Intern @Amazon</p>
+### <p align="center">Former SDE Intern @Amazon</p>
 
 <p>&nbsp;</p>
 
