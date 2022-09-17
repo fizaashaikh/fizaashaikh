@@ -2,11 +2,11 @@
 
 <p>&nbsp;</p>
 
-### <p align="center">Former SDE Intern @Amazon</p>
+### <p align="center">Upcoming SDE @Amazon</p>
 
 <p>&nbsp;</p>
 
-**Skills:** &nbsp;  C / C++ / Java / Problem Solving / HTML / CSS
+**Skills:** &nbsp;  C / C++ / Java / Problem Solving / HTML / CSS / JS
 
 - 🎓 Persuing B.Tech at MKSSS's Cummins College of Engineering for Women, Pune
 - 🌱 Polishing my Problem Solving Skills in DS and Competitive Coding
