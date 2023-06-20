@@ -8,8 +8,8 @@
 
 **Skills:** &nbsp;  C / C++ / Java / Problem Solving / HTML / CSS / JS
 
-- 🎓 Persuing B.Tech at MKSSS's Cummins College of Engineering for Women, Pune
-- 🌱 Polishing my Problem Solving Skills in DS and Competitive Coding
+- 🎓 Studied B.Tech Computer Engineering at MKSSS's Cummins College of Engineering for Women, Pune
+- 🌱 Polishing my Problem-Solving Skills in DS and Competitive Coding
 - 💬 Ask me about **Data Structures**
 - 📫 How to reach me: fizashaikh1602@gmail.com 
 
